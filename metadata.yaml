@@ -1,0 +1,63 @@
+_repo: Satukirja-lapsille-b-Norjalaisia-kansansatuja_74758
+_version: 0.0.1
+contributor:
+  compilers:
+  - agent_name: Asbjørnsen, Peter Christen
+    aliases:
+    - Asbjornsen, Peter Christen
+    - Asbjørnsen, P. C. (Peter Christen)
+    - Bonifacius, Clemens
+    - Asbjörnsen, P. Chr.
+    - Asbjörnsen, Peter Christen
+    birthdate: 1812
+    deathdate: 1885
+    gutenberg_agent_id: '34177'
+    url: http://www.gutenberg.org/2009/agents/34177
+    wikipedia: https://en.wikipedia.org/wiki/Peter_Christen_Asbj%C3%B8rnsen
+  - agent_name: Moe, Jørgen Engebretsen
+    aliases:
+    - Moe, J. E. (Jørgen Engebretsen)
+    - Moe, Jorgen Engebretsen
+    - Moe, Jörgen
+    birthdate: 1813
+    deathdate: 1882
+    gutenberg_agent_id: '34178'
+    url: http://www.gutenberg.org/2009/agents/34178
+    wikipedia: https://en.wikipedia.org/wiki/J%C3%B8rgen_Moe
+  translator:
+    agent_name: Wyyrylinen, David Konstantin
+    alias: Lyry
+    birthdate: 1854
+    deathdate: 1917
+    gutenberg_agent_id: '49273'
+    url: http://www.gutenberg.org/2009/agents/49273
+    wikipedia: https://fi.wikipedia.org/wiki/David_Konstantin_Wyyryläinen
+description: ''
+gutenberg_issued: '2024-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74758'
+language: fi
+pgterms:marc905: 20241110071822anonymous
+pgterms:marc906: '1890'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aPorvoo :$bWerner Söderström, $c1890.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcsh 'Tales -- Norway'
+- !lcsh 'Fairy tales -- Norway'
+- !lcsh 'Folklore -- Norway'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: Pässi ja porsas, jotka menivät metsään asumaan -- Kultalintu -- Kettu
+  paimenena -- Pikku Aske, joka söi kilpaa hiiden kanssa -- Voipukki -- Vastahakoinen
+  akka -- Kertan lintu -- Tytär ja tytärpuoli -- Jänis, joka oli ollut naimisissa
+  -- Herrasmiehen morsian -- Semmoisia voivat akat olla -- Jokaisesta ovat omat lapsensa
+  kauneimmat -- Tuvan isä -- Ruohon nukke -- Kana, joka matkusti Dovren tunturille
+  ett’ei koko maailma hukkuisi -- Herra-Pietari -- Mylly, joka meren pohjassa jauhaa.
+title: 'Satukirja lapsille : $b Norjalaisia kansansatuja'
+url: http://www.gutenberg.org/ebooks/74758
