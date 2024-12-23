@@ -32,7 +32,12 @@ contributor:
     gutenberg_agent_id: '49273'
     url: http://www.gutenberg.org/2009/agents/49273
     wikipedia: https://fi.wikipedia.org/wiki/David_Konstantin_Wyyryläinen
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74758#Satukirja-lapsille-b-Norjalaisia-kansansatuja
 gutenberg_issued: '2024-11-17'
 gutenberg_type: Text
 identifiers:
